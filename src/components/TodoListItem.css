@@ -1,0 +1,15 @@
+.TodoLi {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    text-align: justify;
+}
+.TodoLi:not(:last-child) {
+    margin-bottom: 5px;
+}
+.todoCompleted {
+    text-decoration: line-through;
+}
+.inputArea {
+    width: 100%;
+}

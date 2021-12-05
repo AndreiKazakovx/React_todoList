@@ -1,0 +1,12 @@
+.inputArea {
+    width: 100%;
+    margin-bottom: 5px;
+}
+.btnForm {
+    align-self: center;
+}
+.formForm {
+    display: flex;
+    /*align-content: center;*/
+    flex-direction: column;
+}

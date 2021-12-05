@@ -1,0 +1,18 @@
+.TodoList {
+    display: flex;
+    align-self: center;
+    margin: 0 auto;
+    flex-direction: column;
+    width: 500px;
+}
+.Todo_ul {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+}
+.BTN {
+    margin-left: 10px;
+}
